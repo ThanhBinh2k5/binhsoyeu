@@ -6,8 +6,8 @@ table,td{
   boder-collapse: collapse;
 }
 body {
-  backgroun-imange: ;
-  backgroun-repeat: no-repeat;
-  backgroun-size:cover;
-  backgroun-attachment: fixed;
+  background-imange:url('img/binhhu.jpg') ;
+  background-repeat: no-repeat;
+  background-size:cover;
+  background-attachment: fixed;
 }
