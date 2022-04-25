@@ -1,100 +1,13 @@
-.city {
-  background-color: tomato;
-  /*color: white;*/
-  border: 2px solid black;
-  margin: 20px;
-  padding: 20px;
+h1,h2,h3,h4{
+  color:aqua;
 }
-.thayquadtr{
-  background-color: aqua;
-  color: pink;
-  border: 2px solid black;
-  margin: 20px;
-  padding: 20px;
-}
-#mylove {
-  background-color: lightblue;
-  color: black;
-  padding: 40px;
-  text-align: center;
+table,td{
+  border: 1px solid black;
+  boder-collapse: collapse;
 }
 body {
-  background-image:url('huyn4.jpg');">
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-  background-size: 100%;
+  backgroun-imange: ;
+  backgroun-repeat: no-repeat;
+  backgroun-size:cover;
+  backgroun-attachment: fixed;
 }
-h1 {
-  color: pink;
-  font-family:courier;
-font-size:160%;
-
-}
-h2 {
-  background-image:url('huyn.jpg');
-  padding:60px;
- background-repeat: no-repeat;
-  background-attachment: fixed;
-}
-p {
-  color: black;
-font-family:courier;
-font-size:160%;
-background-color:pink;
-}
-div {
-color: aqua;
-font-family:courier;
-font-size:160%;
-background-color:black;
-}
-span {
-color: pink;
-font-weight:bold;
-}
-a:link {
-  color: wheat;
-  background-color: transparent;
-  text-decoration: none;
-}
-
-a:visited {
-  color: lime;
-  background-color: transparent;
-  text-decoration: none;
-}
-
-a:hover {
-  color: chocolate;
-  background-color: transparent;
-  text-decoration: underline;
-}
-
-a:active {
-  color: cyan;
-  background-color: transparent;
-  text-decoration: underline;
-}
-img{
-width400;
-height:379;
-}
-table{
-font-size:150%;
-border:5px double black;
-border-collapse: collapse;
-}
-th{
-font-size:150%;
-border:2px solid  black;
-}
-th, td{
-border:2px solid  black;
-padding-top: 10px;
-padding-bottom: 20px;
-padding-left: 30px;
-padding-right: 40px;
-}
-/*tr:nth-child(even) {
-  background-color:aqua;
-}*
